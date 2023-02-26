@@ -1,3 +1,5 @@
+<!-- ![background image](background.png)  -->
+
 # FizzBuzzGame
 
 The game can be viewed here:
