@@ -1,6 +1,6 @@
 <!--![background image](background.png) -->
 
-<img src="https://github.com/monartlondon/monartlondon/blob/main/IMG_1147.JPG" height="240" width="480">
+<img src="https://github.com/monartlondon/FizzBuzzGame/blob/main/background.png" height="240" width="480">
 
 # FizzBuzzGame
 
