@@ -1,4 +1,4 @@
-<!-- ![background image](background.png)  -->
+![background image](background.png) 
 
 # FizzBuzzGame
 
