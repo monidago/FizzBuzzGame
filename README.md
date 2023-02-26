@@ -8,9 +8,9 @@ This game has been designed with HTML, CSS and JS.
 This is a university assugnment and whn the user hits the fizzbuzz,
 a little animation will start.
 
-###Problems:
+<b>Problems:</b>
 The animation starts also at screen load. This problem will be fixed soon.
 
-##The game can be viewed here:
+<b>The game can be viewed here:</b>
 https://monartlondon.github.io/FizzBuzzGame
 
