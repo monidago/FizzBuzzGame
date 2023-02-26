@@ -5,7 +5,7 @@
 ## FizzBuzzGame
 
 This game has been designed with HTML, CSS and JS.
-This is a university assugnment and whn the user hits the fizzbuzz,
+This is a university assignment and when the user hits the fizzbuzz,
 a little animation will start.
 
 <b>Problems:</b>
