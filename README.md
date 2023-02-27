@@ -11,6 +11,6 @@ a little animation will start.
 <b>Problems:</b>
 The animation starts also at screen load. This problem will be fixed soon.
 
-<b>The game can be viewed here:</b>
+<b>This is the live version:</b>
 https://monartlondon.github.io/FizzBuzzGame
 
