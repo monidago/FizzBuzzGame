@@ -12,5 +12,5 @@ a little animation will start.
 The animation starts also at screen load. This problem will be fixed soon.
 
 <b>This is the live version:</b>
-https://monartlondon.github.io/FizzBuzzGame
+https://monidago.github.io/FizzBuzzGame
 
